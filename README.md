@@ -10,3 +10,4 @@
 | [Casting](pages/Casting.md) | Convert values between types using functions like `int()`, `float()`, and `str()`. |
 | [Strings](pages/Strings.md) | Create, modify, and work with text data using Python string features. |
 | [Booleans](pages/Booleans.md) | Represent True/False values and evaluate conditions.  |
+| [Operators](pages/Operators.md) | Perform arithmetic, assignment, comparison, logical, identity, membership and bitwise operators. |
