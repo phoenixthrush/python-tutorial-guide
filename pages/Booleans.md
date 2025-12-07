@@ -80,4 +80,6 @@ x = 200
 print(isinstance(x, int))  # True
 ```
 
+---
+
 [<- Previous: Strings](Strings.md) | [Next: Operators ->](Operators.md) | [Table of Contents](../README.md)
