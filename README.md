@@ -9,3 +9,4 @@
 | [Numbers](pages/Numbers.md) | Work with integers, floats, and other numeric values. |
 | [Casting](pages/Casting.md) | Convert values between types using functions like `int()`, `float()`, and `str()`. |
 | [Strings](pages/Strings.md) | Create, modify, and work with text data using Python string features. |
+| [Booleans](pages/Booleans.md) | Represent True/False values and evaluate conditions.  |
