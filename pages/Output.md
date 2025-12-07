@@ -1,6 +1,4 @@
-# Print Stuff
-
-## Output Text
+# Output
 
 You can use the print() function to output text to your terminal:
 

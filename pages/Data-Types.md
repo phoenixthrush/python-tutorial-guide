@@ -56,4 +56,4 @@ Each of these data types will be examined in a dedicated chapter.
 
 ---
 
-[<- Previous: Variables](Variables.md) | [Table of Contents](../README.md)
+[<- Previous: Variables](Variables.md) | [Next: Numbers ->](Numbers.md) | [Table of Contents](../README.md)
